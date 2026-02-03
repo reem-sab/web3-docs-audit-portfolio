@@ -50,3 +50,11 @@ By addressing these issues, a Web3 protocol can expect:
 * **Higher Dev Retention:** Reduced abandonment during the "Getting Started" phase.
 * **Lower Support Overhead:** Fewer repetitive questions in Discord/Telegram regarding installation and faucets.
 * **Faster Ecosystem Growth:** Lowering the barrier to entry for Ethereum-native developers.
+
+## 🛠 Technical Toolkit
+This audit was conducted using a "Cloud-First" approach to project management and documentation:
+
+* **GitHub Issue Tracking:** Utilized to catalog, label, and prioritize documentation gaps.
+* **GitHub Projects (Kanban):** Employed to manage the audit lifecycle and sprint progress.
+* **Markdown (CommonMark):** Used for authoring the audit methodology, scoring rubrics, and reporting templates.
+* **Web-Based Analysis:** Conducted a live environment audit of the Sui Network developer portal to identify UX friction points.
